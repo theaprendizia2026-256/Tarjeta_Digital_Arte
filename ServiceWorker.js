@@ -3,9 +3,7 @@ const assets = [
   './',
   './index.html',
   './style.css',
-  './images/logo_2.jpeg',
-  './images/logo.jpg',
-  './images/QR.png'
+  './manifest.json'
 ];
 
 // Instalar y guardar en caché
